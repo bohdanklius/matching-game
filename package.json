@@ -1,0 +1,11 @@
+{
+  "name": "matching-game",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
